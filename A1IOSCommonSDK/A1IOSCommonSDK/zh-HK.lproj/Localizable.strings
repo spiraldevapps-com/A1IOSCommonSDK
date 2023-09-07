@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  A1IOSCommonSDK
+
+  Created by Tushar Goyal on 07/09/23.
+  
+*/
+
+"INTERNET_ERROR" = "互联网连接似乎是离线的。";
+"NETWORK_ERROR" = "网络连接丢失了。";
+"PRICE_ERROR" = "有错误的价格 - 请重试";
+"FETCH_PLANS_ERROR" = "无法获取订阅计划。";

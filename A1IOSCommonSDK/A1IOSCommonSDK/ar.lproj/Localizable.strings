@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  A1IOSCommonSDK
+
+  Created by Tushar Goyal on 07/09/23.
+  
+*/
+
+"INTERNET_ERROR" = "Internet connection appears to be offline.";
+"NETWORK_ERROR" = "The network connection was lost.";
+"PRICE_ERROR" = "There was an error fetching prices - please try again";
+"FETCH_PLANS_ERROR" = "Unable to fetch subscription plans.";

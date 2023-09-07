@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  A1IOSCommonSDK
+
+  Created by Tushar Goyal on 07/09/23.
+  
+*/
+
+"INTERNET_ERROR" = "La conexión a Internet parece estar desconectada.";
+"NETWORK_ERROR" = "Se ha perdido la conexión de red.";
+"PRICE_ERROR" = "Se ha producido un error al recuperar los precios – por favor inténtalo de nuevo";
+"FETCH_PLANS_ERROR" = "No se han podido recuperar los planes de suscripción.";

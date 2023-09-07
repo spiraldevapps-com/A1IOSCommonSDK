@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "b2fa556e4e48cbf06cf8c63def138c98f4b811fa",
+        "version" : "5.8.0"
+      }
+    },
+    {
+      "identity" : "metrica-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yandexmobile/metrica-sdk-ios.git",
+      "state" : {
+        "revision" : "13d8b11181a33938ef42759d49466a621df5e7db",
+        "version" : "4.5.2"
+      }
+    }
+  ],
+  "version" : 2
+}
